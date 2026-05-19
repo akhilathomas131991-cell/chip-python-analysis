@@ -59,8 +59,13 @@ This analysis helped identify states with consistently high or low active commut
 Visualizations were created to communicate patterns in the dataset, including:
 
 Line chart showing active commuting trends over time
+<img width="731" height="468" alt="trend_graph" src="https://github.com/user-attachments/assets/4d64ea66-dd35-42f5-b0be-15a0fc8c0114" />
+
 Bar chart of top 5 states with highest commuting rates
+<img width="708" height="473" alt="top5 trend graph" src="https://github.com/user-attachments/assets/574fdcb9-911c-4895-8009-94ffa89363e9" />
+
 Bar chart of bottom 5 states with lowest commuting rates
+<img width="722" height="484" alt="bottom5 trend graph" src="https://github.com/user-attachments/assets/ee6bc3a5-e4b4-45aa-992f-9551879ce89c" />
 
 The visualizations provide a clearer understanding of public health and transportation behavior differences across states.
 
